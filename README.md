@@ -11,7 +11,7 @@
 <br>
 
 <div align="center" dir="auto">
-   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"><img src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true" alt="GitHub octocat-rotating" height="250" style="max-width: 150%;"></a>
+   <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true" alt="GitHub octocat-rotating" height="250" style="max-width: 150%;"></a>
  </div>
 
 
